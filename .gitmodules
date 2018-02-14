@@ -1,0 +1,6 @@
+[submodule "attendance"]
+	path = attendance
+	url = https://github.com/sakaicontrib/attendance.git
+[submodule "evaluation"]
+	path = evaluation
+	url = https://github.com/sakaicontrib/evaluation.git
