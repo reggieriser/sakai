@@ -1,0 +1,4 @@
+[submodule "evaluation"]
+	path = evaluation
+	url = https://github.com/sakaicontrib/evaluation.git
+	branch = tags/10.3
